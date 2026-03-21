@@ -1,0 +1,17 @@
+# Binary
+gooodclass
+
+# Data files (keep holiday.json)
+data/checkin.db
+data/checkin.db-shm
+data/checkin.db-wal
+data/*.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

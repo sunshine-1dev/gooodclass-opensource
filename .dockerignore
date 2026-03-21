@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.exe
+*.dll
+*.so
+*.dylib
+gooodclass_server
+*.test
+*.out
+*.log
+.git/
+.gitignore
+.env
+Dockerfile
+docker-compose.yml
+README.md
